@@ -1,0 +1,2 @@
+model_checkpoint_path: "breast_cancer_classification"
+all_model_checkpoint_paths: "breast_cancer_classification"
