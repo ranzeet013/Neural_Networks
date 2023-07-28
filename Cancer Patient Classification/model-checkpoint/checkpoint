@@ -1,0 +1,2 @@
+model_checkpoint_path: "cancer_patient_classificaion"
+all_model_checkpoint_paths: "cancer_patient_classificaion"
